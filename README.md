@@ -1,2 +1,3 @@
-# Mathematics_of_electoral_college
-Mathematical description of electoral college voting process and its comparison with the popular / majority voting system
+# Mathematics of electoral college
+
+Mathematical description of an electoral college voting system and comparison with the popular / majority voting system. See the pdf file.
